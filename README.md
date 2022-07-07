@@ -7,6 +7,7 @@ Here is a short FAQ about this repository
 In this repository, we are going to build a machine learning model using R for classification problem.
 
 **2) Why R?**
+
 R is a popular open-source data science programming language. It has strong visualization features, which are necessary for exploring data before applying any machine learning algorithm and evaluating its output. Many R packages for machine learning are commercially accessible, and many modern statistical learning methods are implemented in R.
 
 **3) Which dataset has been used?**
